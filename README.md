@@ -1,2 +1,2 @@
-# looppy
+# loop-py
 Loopring Python SDK
